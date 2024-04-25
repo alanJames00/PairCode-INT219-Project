@@ -12,8 +12,6 @@ PairCode enables you to code collaboratively in real-time with your team members
 ### Multi-Language Support
 Code in your preferred programming language! PairCode supports a wide range of programming languages, ensuring flexibility for all languages.
 
-# How To Set Up Locally
+**PairCode uses a specialized code execution engine called runx, that is custom built by the same developer of paircode**
 
-This project consists of two codebases (frontend (this repo) and backend):
-
-Backend Repo: https://github.com/alanJames00/pair-code-backend
+checkout runx repo: https://github.com/alanJames00/runx
